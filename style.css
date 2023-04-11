@@ -2,5 +2,5 @@ body {
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(61,61,182,1) 71%, rgba(0,212,255,1) 100%);
     font-family: system-ui,-apple-system,"Segoe UI","Roboto","Ubuntu","Cantarell","Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-    font: #edf0f3;
+    color: #edf0f3;
 }
