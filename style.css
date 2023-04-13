@@ -5,3 +5,14 @@ body {
     color: #edf0f3;
     margin-left: 5px;
 }
+
+.go-button {
+    background: #FF5F1F;
+    color: #edf0f3;
+    transition: 0.3s;
+}
+
+.go-button:hover {
+    background: #792808;
+    color: #edf0f3;
+}
