@@ -9,10 +9,14 @@ body {
 .go-button {
     background: #FF5F1F;
     color: #edf0f3;
+    border-radius: 12px;
+    width: 200px;
+    height: 120px;
     transition: 0.3s;
 }
 
 .go-button:hover {
     background: #792808;
+    border-radius: 12px;
     color: #edf0f3;
 }
