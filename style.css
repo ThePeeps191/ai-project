@@ -13,7 +13,7 @@ body {
     width: 200px;
     height: 80px;
     transition: 0.3s;
-    font-size: 2em;
+    font-size: 1.4em;
 }
 
 .go-button:hover {
