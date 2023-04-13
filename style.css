@@ -8,15 +8,15 @@ body {
 
 .go-button {
     background: #FF5F1F;
-    color: #edf0f3;
+    color: #e8f1f9;
     border-radius: 12px;
     width: 200px;
     height: 80px;
     transition: 0.3s;
+    font-size: 2em;
 }
 
 .go-button:hover {
     background: #792808;
-    border-radius: 12px;
-    color: #edf0f3;
+    color: #ffffff;
 }
