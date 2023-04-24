@@ -20,4 +20,5 @@ body {
 .go-button:hover {
     background: #792808;
     color: #ffffff;
+    cursor: pointer;
 }
