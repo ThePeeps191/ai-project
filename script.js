@@ -1,3 +1,3 @@
 function start() {
-    document.getElementById('startcontent').style.display = 'block';
+    document.getElementById('startcontent').style.opacity = 1;
 }
