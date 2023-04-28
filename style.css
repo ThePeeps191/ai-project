@@ -35,4 +35,5 @@ a.inbutton {
 
 #startcontent {
     display: none;
+    transition: 2s;
 }
